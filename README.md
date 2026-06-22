@@ -71,7 +71,7 @@ AI-Agent-Permission-Manager
 ```
 
 
-```
+
 
 ## Main Features
 
@@ -84,7 +84,14 @@ AI-Agent-Permission-Manager
 - Save audit logs
 - Store risky requests for admin review
 - Approve or reject pending requests
-- View audit history
+- View audit history  
+
+## Contributors
+
+Palash Lahoti - 240721  
+Kunal Kumar - 240582  
+Aditya Kukreti - 240058  
+
 
 
 
