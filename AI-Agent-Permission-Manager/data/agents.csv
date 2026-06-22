@@ -1,0 +1,6 @@
+id,name,role,active
+1,ResearchBot,RESEARCH_AGENT,1
+2,EmailBot,EMAIL_AGENT,1
+3,DataBot,DATA_AGENT,1
+4,OldBot,DATA_AGENT,0
+5,ResearchBot,EMAIL_AGENT,0

@@ -1,0 +1,3 @@
+requestId,agentId,toolId,resource,riskScore,status
+1,2,3,Palash.csv,50,APPROVED
+2,2,3,palashlahoti@gmail.com,65,PENDING

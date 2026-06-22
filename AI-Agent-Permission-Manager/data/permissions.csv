@@ -1,0 +1,10 @@
+role,toolName,allowed
+RESEARCH_AGENT,read_file,1
+RESEARCH_AGENT,generate_report,1
+RESEARCH_AGENT,send_email,0
+EMAIL_AGENT,send_email,1
+EMAIL_AGENT,read_file,0
+DATA_AGENT,read_file,1
+DATA_AGENT,update_database,1
+DATA_AGENT,delete_record,0
+EMAIL_AGENT,send_email,1

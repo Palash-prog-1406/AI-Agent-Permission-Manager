@@ -1,0 +1,7 @@
+id,name,description,baseRisk
+1,read_file,Read internal files,20
+2,generate_report,Generate summary reports,30
+3,send_email,Send email to users,50
+4,update_database,Modify database records,70
+5,delete_record,Delete database records,90
+
